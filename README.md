@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, This is Ken.
 
 <!--
 **KenRen98/KenRen98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on ...
+
+- 🔭 I’m currently working on private projects and Pterodactyl Eggs.
+- 🌱 I’m currently learning TypeScript and VUE, also trying to understand Angular.
+- 🤔 I’m looking for help with Managing Minecraft Servers, Server address: mr-leaves.com (Port 25565 / 1.19.4 Java / ViaVersion)
+- ⚡ Also need people to design the game using Citizens + Denizens + Quests (i.e. Add some interesting quests and challenge to the game)
+- 👯 I’m looking to collaborate on Maintain Pterodactyl Docker Images and Scripts or MC Spigot plugins (need new ideas)
+- 📫 Please reach me on Discord: [MLSG Private Server](https://discord.gg/5GbdjRVY55)https://discord.gg/5GbdjRVY55
+- 🌍 My Portfolio Page: https://kenren.top/
