@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning TypeScript and VUE, also trying to understand Angular.
 - 🤔 I’m looking for help with Managing Minecraft Servers, Server address: mr-leaves.com (Port 25565 / 1.19.4 Java / ViaVersion)
 - ⚡ Also need people to design the game using Citizens + Denizens + Quests
-- (i.e. Add some interesting quests and challenge to the game)
+- (i.e. interesting quests and challenge)
 - 👯 I’m looking to collaborate on Maintain Pterodactyl Docker Images and Scripts or MC Spigot plugins (need new ideas)
 - 📫 Please reach me on Discord: [MLSG Private Server](https://discord.gg/5GbdjRVY55)
 - 🌍 My Portfolio Page: [Dexuan Ren (Ken Ren)](https://kenren.top/)
