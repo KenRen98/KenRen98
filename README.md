@@ -23,11 +23,17 @@ Here are some ideas to get you started:
 
 
 <div>
-<h1 align="center">Hi there 👋, This is Ken Ren.</h1>
+<h1 align="center">Hi there 👋, This is KenRen.</h1>
 </div>  
 <p align="center">
   <a href="https://github.com/KenRen98"><img src="https://github-readme-stats.vercel.app/api?username=KenRen98&hide_border=true&show_icons=true" alt="GitHub Stats"></a>
-</p>  
+</p>
+<p align="center">
+  <strong><a href="https://kenren.top">Portfolio</a></strong> |
+  <strong><a href="https://mr-leaves.com">Company</a></strong> |
+  <strong><a href="https://discord.gg/5GbdjRVY55">Discord</a></strong> |
+  <strong><a href="https://space.bilibili.com/33069720">Bilibili</a></strong>
+</p>
 
 - 🔭 I’m currently working on private projects and Pterodactyl Eggs.  
 - 🌱 I’m currently learning TypeScript and VUE, also trying to understand Angular.  
