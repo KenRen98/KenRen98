@@ -1,7 +1,7 @@
 <div style="text-align:center">
 ### Hi there 👋, This is Ken Ren.
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </div>  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on private projects and Pterodactyl Eggs.
 - 🌱 I’m currently learning TypeScript and VUE, also trying to understand Angular.
