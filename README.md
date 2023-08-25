@@ -1,20 +1,9 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenren98)](https://github.com/anuraghazra/github-readme-stats)
-<div>
-<h1 align="center">Hi there 👋, This is Ken Ren.</h1>
-</div>  
-- 🔭 I’m currently working on private projects and Pterodactyl Eggs.
-- 🌱 I’m currently learning TypeScript and VUE, also trying to understand Angular.
-- 🤔 I’m looking for help with Managing Minecraft Servers, Server address: mr-leaves.com (Port 25565 / 1.19.4 Java / ViaVersion)
-- ⚡ Also need people to design the game using Citizens + Denizens + Quests (i.e. interesting quests and challenge)
-- 👯 I’m looking to collaborate on Maintain Pterodactyl Docker Images and Scripts or MC Spigot plugins (need new ideas)
-- 📫 Please reach me on Discord: [MLSG Private Server](https://discord.gg/5GbdjRVY55)
-- 🌍 My Portfolio Page: [Dexuan Ren (Ken Ren)](https://kenren.top/)
-
 <!--
 **KenRen98/KenRen98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KenRen98)](https://github.com/anuraghazra/github-readme-stats)
 
+Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -24,3 +13,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+
+
+
+
+
+<div>
+<h1 align="center">Hi there 👋, This is Ken Ren.</h1>
+</div>  
+<p align="center">
+  <a href="https://github.com/KenRen98"><img src="https://github-readme-stats.vercel.app/api?username=KenRen98&hide_border=true&show_icons=true" alt="GitHub Stats"></a>
+</p>
+- 🔭 I’m currently working on private projects and Pterodactyl Eggs.
+- 🌱 I’m currently learning TypeScript and VUE, also trying to understand Angular.
+- 🤔 I’m looking for help with Managing Minecraft Servers, Server address: mr-leaves.com (Port 25565 / 1.19.4 Java / ViaVersion)
+- ⚡ Also need people to design the game using Citizens + Denizens + Quests (i.e. interesting quests and challenge)
+- 👯 I’m looking to collaborate on Maintain Pterodactyl Docker Images and Scripts or MC Spigot plugins (need new ideas)
+- 📫 Please reach me on Discord: [MLSG Private Server](https://discord.gg/5GbdjRVY55)
+- 🌍 My Portfolio Page: [Dexuan Ren (Ken Ren)](https://kenren.top/)
+
+
