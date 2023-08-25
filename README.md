@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there 👋, This is KenRen.</h1>
 </div>  
 <p align="center">
-  <a href="https://github.com/KenRen98"><img src="https://github-readme-stats.vercel.app/api?username=KenRen98&hide_border=true&show_icons=true" alt="GitHub Stats"></a>
+  <a href="https://github.com/KenRen98"><img src="https://github-readme-stats.vercel.app/api?username=KenRen98&hide_border=true&show_icons=true" alt="GitHub Stats"></a></br>
   <a href="https://github.com/KenRen98"><img src="https://github-profile-trophy.vercel.app/?username=KenRen98&row=2&column=4" alt="GitHub Trophy"></a>
 </p>
 <p align="center">
