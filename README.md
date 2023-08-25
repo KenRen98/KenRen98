@@ -1,6 +1,7 @@
+<center>
 ### Hi there 👋, This is Ken Ren.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
+</center>
 - 🔭 I’m currently working on private projects and Pterodactyl Eggs.
 - 🌱 I’m currently learning TypeScript and VUE, also trying to understand Angular.
 - 🤔 I’m looking for help with Managing Minecraft Servers, Server address: mr-leaves.com (Port 25565 / 1.19.4 Java / ViaVersion)
