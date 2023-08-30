@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there 👋, This is KenRen.</h1>
 </div>  
 <p align="center">
-  <a href="https://github.com/KenRen98"><img src="https://github-readme-stats.vercel.app/api?username=KenRen98&hide_border=true&show_icons=true" alt="GitHub Stats"></a>
-  <a href="https://github.com/KenRen98"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenren98&layout=compact" alt="Most Used Language"></a></br>
-  <a href="https://github.com/KenRen98"><img src="https://github-profile-trophy.vercel.app/?username=KenRen98&row=1&column=7&margin-w=10&margin-h=15" alt="GitHub Trophy"></a>
+  <a href="https://github.com/KenRen98"><img src="https://github-readme-stats.vercel.app/api?username=KenRen98&hide_border=true&show_icons=true" alt="GitHub Stats"></a></br>
+  <a href="https://github.com/KenRen98"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenren98&layout=donut" alt="Most Used Language"></a></br>
+  <a href="https://github.com/KenRen98"><img src="https://github-profile-trophy.vercel.app/?username=KenRen98&row=2&column=3&margin-w=10&margin-h=15" alt="GitHub Trophy"></a>
 </p>
 <p align="center">
   <strong><a href="https://kenren.top">Portfolio</a></strong> |
@@ -31,10 +31,10 @@ Here are some ideas to get you started:
   <strong><a href="https://space.bilibili.com/33069720">Bilibili</a></strong>
 </p>
 
-- 🔭 I’m currently working on private projects and Pterodactyl Eggs.  
-- 🌱 I’m currently learning TypeScript and VUE, also trying to understand Angular.  
-- 🤔 I’m looking for help with Managing Minecraft Servers, Server address: mr-leaves.com (Port 25565 / 1.19.4 Java / ViaVersion)  
-- ⚡ Also need people to design the game using Citizens + Denizens + Quests (i.e. interesting quests and challenge)  
-- 👯 I’m looking to collaborate on Maintain Pterodactyl Docker Images and Scripts or MC Spigot plugins (need new ideas)
+- 🔭 Working on private projects and Pterodactyl Eggs.  
+- 🌱 Learning TypeScript and VUE, also trying to understand Angular.  
+- 🤔 Looking for help with Managing Minecraft Servers, Server address: mr-leaves.com (Port 25565 / 1.19.4 Java / ViaVersion)  
+- ⚡ Need people to design the game using Citizens + Denizens + Quests (i.e. interesting quests and challenge)  
+- 👯 Collaborating on Maintain Pterodactyl Docker Images and Scripts or MC Spigot plugins (need new ideas)
 
 
