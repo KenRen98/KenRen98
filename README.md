@@ -29,14 +29,15 @@ Here are some ideas to get you started:
   <strong><a href="https://discord.gg/5GbdjRVY55">Discord</a></strong> |
   <strong><a href="https://space.bilibili.com/33069720">Bilibili</a></strong>
 </p>
-<ul style="text-align: center; list-style-type: none; padding: 0; margin: 0;">
-    <li>🔭 Working on private projects and Pterodactyl Eggs. 🔭</li>
-    <li>🌱 Learning TypeScript and VUE, also trying to understand Angular. 🌱</li>
-    <li>🤔 Looking for help with Managing Minecraft Servers 🤔</li>
-    <li>Server address: mr-leaves.com --> Port 25565 / 1.19.4 Java / ViaVersion</li>
-    <li>⚡ Need people to design the game using Citizens + Denizens + Quests ⚡</li>
-    <li>(i.e. interesting quests and challenge, design cities and villages)</li>
-</ul>
+<p align="center">
+🔭 Working on private projects and Pterodactyl Eggs. 🔭<br>
+🌱 Learning TypeScript and VUE, trying to understand Angular. 🌱<br>
+🤔 Looking for help with Managing Minecraft Servers 🤔<br>
+Server address: mr-leaves.com --> Port 25565 / 1.19.4 Java / ViaVersion<br>
+⚡ Need people to design the game using Citizens + Denizens + Quests ⚡<br>
+(i.e. interesting quests and challenge, design cities and villages)
+</p>
+
 
 
 
