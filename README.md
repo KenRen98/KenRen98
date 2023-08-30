@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 </div>  
 <p align="center">
   <a href="https://github.com/KenRen98"><img src="https://github-readme-stats.vercel.app/api?username=KenRen98&hide_border=true&show_icons=true" alt="GitHub Stats"></a></br>
+  <a href="https://github.com/KenRen98"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenren98&layout=compact" alt="Most Used Language"></a></br>
   <a href="https://github.com/KenRen98"><img src="https://github-profile-trophy.vercel.app/?username=KenRen98&row=2&column=3&margin-w=40&margin-h=15" alt="GitHub Trophy"></a>
-  <a href="https://github.com/KenRen98"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenren98" alt="Most Used Language"></a>
 </p>
 <p align="center">
   <strong><a href="https://kenren.top">Portfolio</a></strong> |
