@@ -29,18 +29,7 @@ Here are some ideas to get you started:
   <strong><a href="https://discord.gg/5GbdjRVY55">Discord</a></strong> |
   <strong><a href="https://space.bilibili.com/33069720">Bilibili</a></strong>
 </p>
-<style>
-.centered-list {
-    text-align: center;
-    list-style-type: none;
-    padding: 0;
-}
-
-.centered-list li {
-    display: inline-block;
-}
-</style>
-<ul class="centered-list">
+<ul style="text-align: center; list-style-type: none; padding: 0; margin: 0;">
     <li>🔭 Working on private projects and Pterodactyl Eggs. 🔭</li>
     <li>🌱 Learning TypeScript and VUE, also trying to understand Angular. 🌱</li>
     <li>🤔 Looking for help with Managing Minecraft Servers 🤔</li>
