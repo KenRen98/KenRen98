@@ -30,10 +30,10 @@ Here are some ideas to get you started:
   <strong><a href="https://space.bilibili.com/33069720">Bilibili</a></strong>
 </p>
 <p align="center">
-🔭 Working on private projects and Pterodactyl Eggs. 🔭<br>
-🌱 Learning TypeScript and VUE, trying to understand Angular. 🌱<br>
+🔭 Working on private projects and Pterodactyl Eggs. 🔭<br><br>
+🌱 Learning TypeScript and VUE, trying to understand Angular. 🌱<br><br>
 🤔 Looking for help with Managing Minecraft Servers 🤔<br>
-Server address: mr-leaves.com --> Port 25565 / 1.19.4 Java / ViaVersion<br>
+Server address: mr-leaves.com --> Port 25565 / 1.19.4 Java / ViaVersion<br><br>
 ⚡ Need people to design the game using Citizens + Denizens + Quests ⚡<br>
 (i.e. interesting quests and challenge, design cities and villages)
 </p>
